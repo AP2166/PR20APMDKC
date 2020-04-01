@@ -95,13 +95,13 @@ We can see that the winning genres in the past few years are quite diverse.
 
 *Differences between jury and televoting points*
 
-Statistics of the televoting points versus the jury points:
-std               92.772198                     78.694959
-min               -1.000000                     -1.000000
-25%                3.000000                      9.000000
-50%               35.000000                     48.000000
-75%              102.500000                    114.500000
-max              376.000000                    382.000000
+Statistics of the televoting points versus the jury points:<br>
+std               92.772198                     78.694959<br>
+min               -1.000000                     -1.000000<br>
+25%                3.000000                      9.000000<br>
+50%               35.000000                     48.000000<br>
+75%              102.500000                    114.500000<br>
+max              376.000000                    382.000000<br>
 
 By analyzing the top five contestants according to the jury and televoters from 2016 to 2019 (2015 didn't have the split voting
 system), we can see that the only year when the jury and the televoters agreed was 2017, when they both chose Portugal as the
