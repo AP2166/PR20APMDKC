@@ -1,4 +1,12 @@
-**REPORT**
+**INTERIM REPORT**
+
+Our project is about the Eurovision Song Contest, the patterns in Eurovision voting, an examination of the genre trends
+and an analysis of the performances in order to create a winner prediction model.
+
+We already had a dataset which had all the points given from one country to another from 1975 to 2019 which we'll use to
+work on the first problem we want to tackle (voting patterns) but we had to analyze other data on our own for the other two 
+problems.
+
 
 **New datasets**
 
@@ -127,4 +135,28 @@ https://github.com/AP2166/PR20APMDKC/blob/master/Performance%20analysis.ipynb
 
 *Link to the dataset:*
 https://github.com/AP2166/PR20APMDKC/blob/master/2015-2019%20performers.xlsx
+
+
+
+The second dataset is focused on exploring the genre trends by country from the beginning of the Eurovision Song Contest to the present day. The column values are all the countries that have participated, and the row values are years, from 1956 to 2019.
+We organized the genres into ten possible categories:<br>
+sentimental ballad, power ballad, upbeat pop, dance pop, ethnic, (pop) rock, popera, country, outlier and debatable.
+
+We also separated the winners in a different dataset so we could analyze the winning trends.
+
+![Genre distribution](https://github.com/AP2166/PR20APMDKC/blob/master/genre_distribution.jpg)
+
+Here we can once again see that pop is the most popular genre, specifically dance pop, closely followed by sentimental and power
+ballads. 
+
+![Winning vs prevalent](https://github.com/AP2166/PR20APMDKC/blob/master/winning_vs_most_prevalent.jpg)
+
+We wanted to see whether the most present genre of the year is also the winning one. 
+As we can see, this is not usually the case.
+
+![Winning countries throughout the years](https://github.com/AP2166/PR20APMDKC/blob/master/win_countries.jpg)
+
+Here we can see all the winning countries. Ireland is the country with the most wins, the only country to win with the same
+performer twice, and the only country to win three years in a row. They've also won with 4 different genres from our genre
+categories.
 
