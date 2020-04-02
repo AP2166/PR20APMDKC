@@ -160,3 +160,9 @@ Here we can see all the winning countries. Ireland is the country with the most 
 performer twice, and the only country to win three years in a row. They've also won with 4 different genres from our genre
 categories.
 
+The link to the Jupyter notebook: <br>
+https://github.com/AP2166/PR20APMDKC/blob/master/analiza.ipynb
+
+The link to the two other datasets (Genres and Winners):<br>
+https://github.com/AP2166/PR20APMDKC/blob/master/Winners.csv <br>
+https://github.com/AP2166/PR20APMDKC/blob/master/Genres.csv <br>
